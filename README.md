@@ -73,3 +73,8 @@ There will be a page to introduce the web developers who worked on this project
 
 
 ![Domain Modeling and Wireframing](img/WireframeAndUML.png)
+
+
+## Original Project link
+
+https://github.com/team-FTL/layoffs-the-game
